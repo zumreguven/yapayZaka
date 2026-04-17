@@ -1,0 +1,23 @@
+================================================================================
+MODEL TEST ÖZETİ (TXT)
+================================================================================
+Oluşturulma zamanı: 2026-04-16 15:02:47
+
+--- ÖZET ---
+Bu projede «Gradyan Artırma (Histogram GB — büyük veri)» modeli kullanılmıştır ve başarı oranı yüzde 93,8'dir.
+
+(Başarı oranı: yalnızca test kümesinde hesaplanan R² belirlilik katsayısına karşılık gelen açıklanan varyans yüzdesidir; eğitim verisi bu ölçümde kullanılmamıştır.)
+
+--- İLİŞKİLİ GÖRSEL ---
+Aynı özet değerleri şu PNG dosyasında da yer alır: model_kanit_ekrani.png
+Tam yol: /Users/zumre/Projects/student-performance-ai/kanitlar/model_kanit_ekrani.png
+
+--- TEKNİK DETAY (TEST KÜMESİ) ---
+R² skoru: 0.9378
+Ortalama mutlak hata (MAE): 0.7180
+Kök ortalama kare hata (RMSE): 1.1399
+Eğitim örnek sayısı: 160000
+Test örnek sayısı: 40000
+
+Metin dosyası yolu: /Users/zumre/Projects/student-performance-ai/kanitlar/model_basari_kaniti.txt
+================================================================================
